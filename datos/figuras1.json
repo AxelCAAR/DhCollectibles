@@ -2,43 +2,43 @@
     {
       "Marca": "Hot Toys",
       "Nombre": "Spider-Man",
-      "Precio": 100,
-      "Stock": 10
+      "Precio": 230,
+      "Stock": 23
     },
     {
       "Marca": "Hot Toys",
       "Nombre": "Hellboy",
-      "Precio": 110,
-      "Stock": 11
+      "Precio": 124,
+      "Stock": 52
     },
     {
       "Marca": "Hot Toys",
       "Nombre": "Tony Stark",
-      "Precio": 120,
-      "Stock": 12
-    },
-    {
-      "Marca": "Hot Toys",
-      "Nombre": "Black Panther",
-      "Precio": 130,
-      "Stock": 13
-    },
-    {
-      "Marca": "Hot Toys",
-      "Nombre": "Batman",
-      "Precio": 140,
+      "Precio": 263,
       "Stock": 14
     },
     {
       "Marca": "Hot Toys",
+      "Nombre": "Black Panther",
+      "Precio": 142,
+      "Stock": 25
+    },
+    {
+      "Marca": "Hot Toys",
+      "Nombre": "Batman",
+      "Precio": 315,
+      "Stock": 22
+    },
+    {
+      "Marca": "Hot Toys",
       "Nombre": "Captain America",
-      "Precio": 150,
-      "Stock": 15
+      "Precio": 199,
+      "Stock": 14
     },
     {
       "Marca": "Hot Toys",
       "Nombre": "Superman",
-      "Precio": 160,
-      "Stock": 16
+      "Precio": 146,
+      "Stock": 17
     }
 ]
